@@ -8,9 +8,10 @@ header, main, footer {
 }
 
 
-header, footer {
-    margin: .5rem;
-    padding: 0.5rem;
+header, 
+footer {
+
+    padding: 1rem;
     background-color: #9AC2C5;
 }
 
