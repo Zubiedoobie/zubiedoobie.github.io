@@ -1,0 +1,35 @@
+body {
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header, main, footer {
+    max-width: 760px;
+    margin: 0 auto;
+}
+
+h1 {
+    letter-spacing: 3px;
+    text-align: center;
+    font-size: 40px;
+}
+
+header, 
+footer {
+    border-radius: 12px;
+    padding: 1rem;
+    background-color: #9AC2C5;
+}
+
+
+header img {
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px #696969;
+    float: right;
+    width: 170px;
+    height: auto;
+}
+
+footer {
+    text-align: center;
+}
