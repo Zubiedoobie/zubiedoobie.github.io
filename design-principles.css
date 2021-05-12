@@ -1,17 +1,12 @@
-h1 {
-    font-size: 24px;
-}
-
-
-
-
-
-
-
-
-/* body {
+body {
     font-size: 16px;
     font-family: 'Times New Roman', Times, serif;
+    background-color: #F4F4F6;
+}
+
+.name {
+    font-size: 25px;
+    text-align: center;
 }
 
 header, main, footer {
@@ -27,20 +22,28 @@ h1 {
 
 header, 
 footer {
-    border-radius: 12px;
-    padding: 1rem;
+    border-radius: 5px;
+    padding: .5rem;
     background-color: #9AC2C5;
 }
 
+h2 {
+    text-align: center;
+    border-radius: 5px;
+    padding: .5rem;
+    max-width: 20rem;
+    background-color: #9AC2C5;  
+}
 
-header img {
+
+img {
     border-radius: 10px;
     box-shadow: 2px 2px 4px #696969;
-    float: right;
-    width: 170px;
+    align: center;
+    width: 300px;
     height: auto;
 }
 
 footer {
     text-align: center;
-}*/
+}
